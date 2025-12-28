@@ -1,4 +1,4 @@
-# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> # Full-Stack Online Bookstore Web Application
+# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> Full-Stack Online Bookstore Web Application
  </a> 
 - A Java Web Developement Project
 
